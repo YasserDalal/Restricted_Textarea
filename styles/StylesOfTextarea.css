@@ -1,0 +1,67 @@
+body {
+  font-family: Roboto;
+  height: 100vh;
+}
+
+.parent-of-all-containers {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.main-container {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  grid-template-columns: minmax(0, 100%);
+  grid-template-rows: auto 500px;
+  width: 60%;
+}
+
+.textarea.restricted-border {
+  border: 3px solid rgb(222, 0, 0) ;
+}
+
+.restricted-font {
+  color: rgb(222, 0, 0) ;
+}
+
+.textarea {
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  min-height: 200px;
+  resize: none;
+  border: 3px solid black;
+  outline: none;
+  border-radius: 35px;
+  padding: 25px 65px 20px 45px;
+  font-size: 20px;
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+
+.counter {
+  position: absolute;
+  top: 165px;
+  right: 28px;
+  background-color: rgba(255, 255, 255, 0.877);
+}
+
+.textarea-container {
+  position: relative;
+  
+}
+
+.Favor-to-user h1 {
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.watermark-of-yasser {
+  position: fixed;
+  bottom: 15px;
+  left: 10px;
+}
+
