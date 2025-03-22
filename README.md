@@ -1,7 +1,7 @@
 ## This project is called Restricted Textarea
 &nbsp;
 
-#### Kindly check the project here &rarr; <a href="https://yasserdalal.github.io/Small_Projects_Part_1/Project-8/Restricted_Textarea.html" target="_blank">Restricted Textarea</a>
+#### Kindly check the project here &rarr; <a href="https://yasserdalal.github.io/Small_Projects_Part_1/Project-8/Restricted-Textarea.html" target="_blank">Restricted Textarea</a>
 
 &nbsp;
 #### I created a text input that guides users on how to know when to stop typing their characters, based on the situation.
